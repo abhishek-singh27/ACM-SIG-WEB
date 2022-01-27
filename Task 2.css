@@ -1,0 +1,23 @@
+*
+{
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+div {
+    color: navy;
+    font-size: 30px;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+span {
+    float: left;
+    color: black;
+    font-size: 100px;
+}
+img {
+    float: right;
+}
